@@ -1,2 +1,3 @@
 # ICME2025-Cross-View-Neighborhood-Contrastive-Multi-View-Clustering-with-View-Mixup-Feature-Learning
-The code of "Cross-View Neighborhood Contrastive Multi-View Clustering with View Mixup Feature Learning"
+The code is coming soon!
+if you need code concat me
